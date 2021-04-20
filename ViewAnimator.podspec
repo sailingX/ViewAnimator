@@ -9,10 +9,10 @@ Pod::Spec.new do |s|
     with delightful interactions.
                        DESC
 
-  s.homepage         = 'https://github.com/marcosgriselli/ViewAnimator'
+  s.homepage         = 'https://github.com/sailingX/ViewAnimator'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'marcosgriselli@gmail.com' => 'marcosgriselli@gmail.com' }
-  s.source           = { :git => 'https://github.com/marcosgriselli/ViewAnimator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sailingX/ViewAnimator.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/marcosgriselli'
 
   s.swift_version = "5.1"
